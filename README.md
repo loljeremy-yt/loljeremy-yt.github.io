@@ -1,4 +1,4 @@
-<img src="LOGO#.png">
+<img src="LOGO#.png" alt="Smiley face" height="42" width="42">
 
 ## Welcome to loljeremy
 
